@@ -37,3 +37,5 @@ Nutzen Sie damit die zahlreichen Features und Vorteile:
 
 - Details zu Funktionen und Umsetzung in der [Hilfe](help)
 
+- Weitere Gründe und Motivationen finden Sie im Artikel [Delta macht chatten besser](https://delta.chat/en/2017-05-31-delta-makes-chatting-better#german).
+
